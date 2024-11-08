@@ -47,8 +47,6 @@ Put the checkpoint into `$PROJECT_ROOT$/output/config_name/...` or modify the ch
 
 ```
 python tracking/test.py wt_track vitb_256_wt_32x4_4e4_lasher_15ep_sot --dataset_name lasher_test --threads 6 --num_gpus 1
-
-python tracking/analysis_results.py --tracker_name wt_track --tracker_param vitb_256_wt_32x4_4e4_lasher_15ep_sot --dataset_name lasher_test
 ```
 
 ## Acknowledgments
