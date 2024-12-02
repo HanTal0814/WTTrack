@@ -1,4 +1,4 @@
-# WTTrack: Wavelet Transform-Enhanced Feature Fusion for Robust RGBT Tracking
+# WTTrack:  Exploring Frequency Domain Feature Fusion for Robust RGBT Tracking
 
 Implementation of the paper (WTTrack: Wavelet Transform-Enhanced Feature Fusion for Robust RGBT Tracking)
 ## Environment Installation
